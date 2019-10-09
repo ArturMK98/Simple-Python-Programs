@@ -5,7 +5,7 @@ Below is a list of some simple Python programs that I wrote when I was learning 
 - A Python program that prompts the user to enter 3 sides of a triangle and prints out the area of that triangle.
 
 ## [Hello World](https://github.com/ArturMK98/Simple-Python-Programs/blob/master/HelloWorld.py)
-- A Python program that prints 'Hello Wrold' to the screen.
+- A Python program that prints "Hello Wrold" to the screen.
 
 ## [QuadraticEqn](https://github.com/ArturMK98/Simple-Python-Programs/blob/master/QuadraticEqn.py)
 - A Python program that prompts that user to enter 3 values (a,b,c) and solves the quadratic equation given the values entered by the user.
