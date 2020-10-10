@@ -7,6 +7,7 @@
             - 2: The program calculates the area of the triangle
             - 3: The result is printed out to the screen
 """
+# taking float inputs(base or height) from the user
 base = float(input('Enter base: '))
 height = float(input('Enter height: '))
 
